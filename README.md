@@ -1,8 +1,7 @@
 # Car-Sales-dataset
-Car Dataset of Different brands sales
+**Car Dataset of Different brands sales**
 
-Total number of car brands 30
-
+Total number of car brands
 
 Net cars Sold 
 
